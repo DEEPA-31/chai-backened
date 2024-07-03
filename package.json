@@ -1,0 +1,16 @@
+{
+  "name": "chai-backened",
+  "version": "1.0.0",
+  "description": "a backened with chai and code channel -youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened",
+    "chai"
+  ],
+  "author": "Deepa Boora",
+  "license": "ISC"
+}
